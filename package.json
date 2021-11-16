@@ -10,7 +10,6 @@
     "strapi": "strapi",
     "heroku-postbuild": "strapi build && node scripts/postinstall.js"
   },
-  "devDependencies": {},
   "dependencies": {
     "fs": "^0.0.1-security",
     "knex": "<0.20.0",
